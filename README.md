@@ -28,3 +28,12 @@ dismathportfolio-yvescasintahan11 created by Classroom for GitHub
 - I also learned Recursive definition
 - I found induction confusing at first, but after a while, I found it a little less confusing
 
+## Week 5
+- I learned recursive algorithm
+- I also learned program correctness, program verification, partial correctness
+- I also encountered the hoare triple, which is quite confusing
+- Sets was introduced
+
+## Week 6
+- I learned cardinality and its symbol which means alephnought
+- Function was introduced
