@@ -37,3 +37,15 @@ dismathportfolio-yvescasintahan11 created by Classroom for GitHub
 ## Week 6
 - I learned cardinality and its symbol which means alephnought
 - Function was introduced
+
+## Week 7
+- No classes this week
+
+## Week 8
+- I learned algorithm
+- I encountered linear and binary search
+
+## Week 9
+- I learned sorting algorithms
+- I also learned BubbleSort Pseudocode and Insertion Sort Pseudocode
+- Greedy Algorithm was introduced
