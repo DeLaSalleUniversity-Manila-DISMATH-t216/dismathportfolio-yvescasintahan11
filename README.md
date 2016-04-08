@@ -49,3 +49,26 @@ dismathportfolio-yvescasintahan11 created by Classroom for GitHub
 - I learned sorting algorithms
 - I also learned BubbleSort Pseudocode and Insertion Sort Pseudocode
 - Greedy Algorithm was introduced
+
+## Week 10
+- I learned Growth of Functions
+- Big O, Big Omega, and complexity of algorithms were discussed
+
+## Week 11
+- No classes this week
+
+## Week 12
+- Graph Theory was introduced. I learned that graphs consist of vertices and edges.
+- I also learned the many applications of graphs
+- Handshaking theorem, Paths were discussed 
+- I learned the Euler circuit, Euler path, Hamilton path, pendant, and matrices of graphs
+- I also learned Isomorphism of graphs, Euler's Formula, and Kuratowski's Theorem
+
+## Week 13
+- Graph coloring was discussed
+- I learned the four color theorem
+- Trees was also discussed
+- I learned the m-ary tree and a forest, which is 2 or more trees
+- Modeling computation was also discussed
+- I learned the structures in models of computation
+- I also learned the Automata Theory and Finite state machines
